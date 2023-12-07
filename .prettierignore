@@ -1,0 +1,16 @@
+# build output
+dist/
+
+# dependencies
+node_modules/
+
+# dependency lock files
+package-lock*
+yarn.lock*
+pnpm-lock*
+
+# auto generated files
+aws-exports.ts
+
+# svg files
+*.svg
